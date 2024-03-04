@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.dibtravel.app",
+            "sha256_cert_fingerprints": [
+                "EF:70:3B:AF:58:E4:03:42:9E:43:A7:FB:10:B1:0E:DD:3F:56:B3:90:F2:DF:1C:5F:CE:75:6E:BC:67:D4:D4:CC"
+            ]
+        }
+    }
+]
